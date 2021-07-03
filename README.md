@@ -1,13 +1,13 @@
 # This image will help you to start with Python Flask Microframework
 
-### Just pull the image
+### Just clone the repo
 ```
-$ docker pull ricardoveronica/flask-app:1.0.0
+$ git clone https://github.com/RicardoVeronica/docker-hub-flask.git
 ```
 
 ### Run the image
 ```
-$ docker-compose run --rm ricardoveronica/flask-app:1.0.0
+$ docker-compose up -d
 ```
 
 ### Open your browser in
